@@ -14,5 +14,4 @@ const decodeTheRing = function (s, p) {
 return matchHelper(0, 0);
 };
 
-  
-  module.exports = decodeTheRing;
+module.exports = decodeTheRing;
